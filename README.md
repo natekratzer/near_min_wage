@@ -1,0 +1,1 @@
+near_min_wage
